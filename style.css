@@ -1,0 +1,37 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin:0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.speed_div{
+    float:left;
+}
+
+.disk{
+    width:200px;
+    border-radius: 100px;
+}
+
+.volume_div{
+    float: right;
+}
+
+.btton{
+    width:150px;
+    font-size: 20px;
+}
+
+.button_play{
+    font-size: 20px;
+    width: 150px;
+}
+
+canvas{
+    border: 3px dashed gainsboro;
+}
